@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Feb 16 13:38:15 CET 2024","Fri Feb 16 13:38:22 CET 2024","6949","","The Internet Guinea Pig Website: As a user, I can search for flights","","","","When I select Madrid, Barcelona and 01/06/2024",""
+"passed","Fri Feb 16 13:38:22 CET 2024","Fri Feb 16 13:38:25 CET 2024","3216","","The Internet Guinea Pig Website: As a user, I can search for flights","","","","Then I should see a page with the available flights and the following message: Madrid (MAD) - Barcelona (BCN)",""
+"passed","Fri Feb 16 13:38:14 CET 2024","Fri Feb 16 13:38:15 CET 2024","1666","","The Internet Guinea Pig Website: As a user, I can search for flights","","","","Given I am on the login page",""
+"passed","Fri Feb 16 13:38:25 CET 2024","Fri Feb 16 13:38:25 CET 2024","0","","The Internet Guinea Pig Website: As a user, I can search for flights","","","","",""
